@@ -1,0 +1,28 @@
+body {
+    font-family: Georgia, Helvetica, sans-serif;
+    background-color: #f5c47a;
+    color: #5d310c;
+}
+
+.title {
+    font-family: Georgia;
+    font-size: 32px;
+}
+
+a.home-button {
+    padding: 6px 12px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color:#5d310c;
+    background-color: #f3cb74;
+    text-decoration: none;
+}
+
+a.nav-button {
+    padding: 6px 12px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color:#5d310c;
+    background-color: #f3cb74;
+    text-decoration: none;
+}
